@@ -1,0 +1,7 @@
+Spring Web : comme la description l’indique, permet de faire du RESTful, ce qui correspond à notre API pour exposer des endpoints.
+
+Lombok : vous ne pouviez pas le deviner, c’est une librarie pour optimiser certaines classes, je vous en parle un peu plus loin dans le chapitre.
+
+H2 Database : comme on dit, “C'est comme le Port-Salut, c'est écrit dessus” ; on veut faire du H2, alors on prend cette dépendance.
+
+Spring Data JPA : permet de gérer la persistance des données avec la base de données ; peut-être le plus difficile à identifier pour vous si vous n’avez jamais fait de persistance de données avec Spring.
